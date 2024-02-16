@@ -10,6 +10,7 @@ function Header(){
     <Link to='/Community'>Community</Link>
     <Link to='/Search'>Search</Link>
     <Link to='/SignUp'>SignUp</Link>
+  
   </nav> 
     </div>
     )
